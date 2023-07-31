@@ -1,0 +1,21 @@
+.home{
+    border: 1px solid grey;
+    background-color: #f3efef;
+    height: 45px;
+    padding: 10px;
+}
+.row{
+    width: 1800px;
+}
+.item{
+    background-color: #fcd9e7;;
+}
+.item2{
+    background-color: #f8e9b8;;
+}
+.item3{
+    background-color: #c0d9f3;;
+}
+.pagination{
+    width: 1800px;
+}
